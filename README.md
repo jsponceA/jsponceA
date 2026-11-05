@@ -14,9 +14,9 @@
   <a href="./cv/Jonny_Ponce_CV_Recruiter_EN.pdf"><img src="https://img.shields.io/badge/CV-English-14b8a6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV English" /></a>
 </p>
 
-<img src="https://img.shields.io/badge/📍_Lima,_Perú-1f2937?style=flat-square" alt="Lima, Perú" />
-<img src="https://img.shields.io/badge/🎓_CIP_N°_398379-1f2937?style=flat-square" alt="CIP" />
-<img src="https://img.shields.io/badge/🟢_Disponible-Backend_%2F_Full_Stack-15803d?style=flat-square" alt="Disponible" />
+<img src="https://img.shields.io/badge/Lima,_Perú-1f2937?style=flat-square" alt="Lima, Perú" />
+<img src="https://img.shields.io/badge/CIP_N°_398379-1f2937?style=flat-square" alt="CIP" />
+<img src="https://img.shields.io/badge/Disponible-Backend_%2F_Full_Stack-15803d?style=flat-square" alt="Disponible" />
 <img src="https://komarev.com/ghpvc/?username=jsponceA&style=flat-square&color=0f2a44&label=Visitas" alt="Visitas" />
 
 </div>
@@ -97,7 +97,7 @@ idiomas:     [Español nativo, Inglés intermedio B1]
   <tr>
     <td width="50%" valign="top">
       <img src="./assets/erp_comercial.jpg" alt="ERP Comercial" />
-      <h4>🧾 ERP de Gestión Comercial y Facturación SUNAT</h4>
+      <h4>📊 ERP de Gestión Comercial y Facturación SUNAT</h4>
       Ventas, inventario, caja y facturación electrónica con XML/CDR en S3 procesada con colas y Scheduler.<br/>
       <code>Laravel</code> <code>Vue.js</code> <code>PostgreSQL</code> <code>Redis/Horizon</code> <code>S3</code>
     </td>
@@ -202,7 +202,6 @@ idiomas:     [Español nativo, Inglés intermedio B1]
 
 <img src="https://streak-stats.demolab.com?user=jsponceA&theme=tokyonight&hide_border=true&background=0f2a44&ring=14b8a6&fire=14b8a6&currStreakLabel=14b8a6&locale=es" alt="GitHub Streak" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jsponceA&bg_color=0f2a44&color=e2e8f0&line=14b8a6&point=ffffff&area=true&hide_border=true&custom_title=Contribuciones%20recientes" alt="Activity Graph" />
 
 </div>
 
